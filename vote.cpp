@@ -10,6 +10,6 @@ int main(){
         cout<<"You can Vote";
     }else{
         cout<<"You Can't Vote ";
-    }
+    }   
     return 0;
 }
